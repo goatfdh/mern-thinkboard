@@ -175,20 +175,6 @@ http://localhost:5173
 | UPSTASH_REDIS_REST_TOKEN | Upstash Redis Token |
 | NODE_ENV | development / production |
 
----
-
-# 📸 Screenshots
-
-> Add your screenshots here
-
-Example:
-
-```
-screenshots/
-    home.png
-    create-note.png
-    edit-note.png
-```
 
 ---
 
